@@ -40,7 +40,7 @@ During the exploratory data analysis, the following insights were uncovered:
 
 - Identification of null values and their implications.
 - Exploration of relationships between product features and ratings.
-- Trend analysis of product categories and sales performance.
+- Trend analysis of product categories and sales performance
 
 ## Machine Learning Models
 
